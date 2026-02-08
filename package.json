@@ -1,7 +1,7 @@
 {
   "name": "anonim-chat-backend",
   "version": "1.0.0",
-  "description": "3 saatte silinen anonim chat",
+  "description": "Anonim chat (çakışmasız anon)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
